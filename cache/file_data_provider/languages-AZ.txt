@@ -11,7 +11,7 @@ AS;;Assamese
 AV;;Ərəbcə
 AE;;Avestan
 AY;;Aymara
-AZ;;Azərbaycan türkçəsi
+AZ;;Azərbaycan dili
 BA;;Bashkir
 BM;;Bambara
 EU;;Baskca
